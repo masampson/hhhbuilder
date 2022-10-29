@@ -35,3 +35,7 @@ You don't need to add validations around anything other than the age and relatio
 
 The focus here is on the quality of your JavaScript, not the beauty of your design. The controls you add around viewing and deleting
 household members should be usable but need not be much to look at.
+
+## MS - Development Environment
+
+Coded in VSCode using Live server extension to run locally in the browser.
